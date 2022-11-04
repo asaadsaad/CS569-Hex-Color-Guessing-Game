@@ -37,5 +37,5 @@ Use the code below to generate a random HEX color value, and to pick one random 
     return arr[Math.floor(Math.random() * arr.length)];
   }
 ```
-## Code Honor Submission Policy
-Remember to respect the code honor submission policy. All written code must be original. Presenting any code as one’s own work when it came from another source is plagiarism, that includes any matching patterns and code snippets, and will result in not being part of the final project advantage selection, and potentionally affect your homework grade.
+### Code Honor Submission Policy
+*Remember to respect the code honor submission policy. All written code must be original. Presenting any code as one’s own work when it came from another source is plagiarism, that includes any matching patterns and code snippets, and will result in not being part of the final project advantage selection, and potentionally affect your homework grade.*
