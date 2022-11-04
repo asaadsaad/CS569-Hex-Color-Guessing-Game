@@ -26,10 +26,11 @@ Once the user clicks on the answer:
   
 ## Code assistance
 Use the code below to generate a random HEX color value, and to pick one random value from a given array:
-```javascript
+```js
   private generateRandomHexColor(): string {
     return '#' + (Math.random() * 0xFFFFFF << 0).toString(16).padStart(6, '0');
   }
+  
   private getRandomItemFromArray(arr: string[]): string {
     return arr[Math.floor(Math.random() * arr.length)];
   }
