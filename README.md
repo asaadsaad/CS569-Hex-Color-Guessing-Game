@@ -1,9 +1,10 @@
 # CS569-Hex Color Guessing Game
 Welcome to the first workshop in the CS569 course. We are going to build a HEX color guessing game!  
   
-This is a competitive workshop, the first 3 students who submit a correct solution before 12:30 PM (including the extra requirements) will have one extra day to work and submit their final project! We will meet at 2:00 PM and I will code the solution with you. Good luck to everyone, and happy coding!  
+This is a competitive individual workshop, and should not be worked in groups, at 2:00 PM, when we meet again to code the solution together, we will randomly pick 3 students who submit a correct solution before 12:30 PM (including the extra requirements), these students will have one extra day to work and submit their final project! Good luck to everyone, and happy coding!  
   
-If you pushed your code before 12:30 PM, send me a text message on Teams so I could check your code immediately and determine your eligibility for the final project advantage.  
+If you pushed your code before 12:30 PM, send me a text message on Teams so I could check your code immediately and determine your eligibility for the final project advantage selection.  
+  
 ## Game specifications
 In this game users will have to guess the displayed color from 3 buttons as shown below:
 <p align="center">
@@ -36,3 +37,5 @@ Use the code below to generate a random HEX color value, and to pick one random 
     return arr[Math.floor(Math.random() * arr.length)];
   }
 ```
+## Code Honor Submission Policy
+Remember to respect the code honor submission policy. All written code must be original. Presenting any code as one’s own work when it came from another source is plagiarism, that includes any matching patterns and code snippets, and will result in not being part of the final project advantage selection, and potentionally affect your homework grade.
