@@ -7,17 +7,18 @@ If you pushed your code before 12:30 PM, send me a text message on Teams so I co
 ## Game specifications
 In this game users will have to guess the displayed color from 3 buttons as shown below:
 <p align="center">
-  <img src="./game-01.png" />
+  <img src="./game-snapshot-01.png" />
 </p>
   
 Once the user clicks on the answer:  
 * All buttons are disabled.  
-* A message is displayed with: "That's Correct!" Or "Wrong answer, the color is: #RRGGBB".  
+* A message is displayed with: "That's Correct!" Or "Wrong answer, the color is: #RRGGBB".   
+* Change the scoreboard state.
 * Display an interval countdown from 5 to 0 seconds and reset the game once it reaches 0 (Reset: pick a new color, activate buttons, remove all messages) as displayed below:  
   
 <p align="center">
-  <img src="./game-02-correct.png" />
-  <img src="./game-03-wrong.png" />
+  <img src="./game-snapshot-02.png" />
+  <img src="./game-snapshot-03.png" />
 </p>
   
 ## Extra requirements
