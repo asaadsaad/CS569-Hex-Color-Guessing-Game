@@ -15,7 +15,7 @@ Once the user clicks on the answer:
 * All buttons are disabled.  
 * A message is displayed with: "That's Correct!" Or "Wrong answer, the color is: #RRGGBB".   
 * Change the scoreboard state.
-* Display an interval countdown from 5 to 0 seconds and reset the game once it reaches 0 (Reset: pick a new color, activate buttons, remove all messages) as displayed below:  
+* Display an interval countdown from 5 to 0 seconds and reset the game once it reaches 0 (Reset: generate three new HEX colors, pick one of them to be displayed, activate buttons, remove all messages) as displayed below:  
   
 <p align="center">
   <img src="./game-snapshot-02.png" />
